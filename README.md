@@ -1,5 +1,3 @@
 # ADfasterRelease
 
-Antimatter FAST Dimension
-
-View the How To Play entry for details.
+This repository is abandoned. It now only redirect to the original repository.
